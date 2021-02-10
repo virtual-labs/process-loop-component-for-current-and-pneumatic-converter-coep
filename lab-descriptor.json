@@ -74,7 +74,7 @@
       "MS/Ph. D. Beginners in Process Instrumentation, Mechatronics, Mechanical (Design) fluid power, and Chemical Engineering"
     ]
   },
-  "objective": "1. Configure the current and pneumatic converter understudy/ 2. Analyse the effects of configurable parameters on the performance of the converter under test/ 3.Select the appropriate component as regards span, linearity, accuracy, and damping for the application./ 4.Identify the faults in the converter and rectify the same.",
+  "objective": "1. Configure the current and pneumatic converter understudy 2. Analyse the effects of configurable parameters on the performance of the converter under test 3.Select the appropriate component as regards span, linearity, accuracy, and damping for the application. 4.Identify the faults in the converter and rectify the same.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the Process Loop Components for the Current and Pneumatic Converters course of various universities to considerable extent.",
     "universities": [
@@ -85,5 +85,5 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v0.0.3"
+  "version": "v0.0.4"
 }
