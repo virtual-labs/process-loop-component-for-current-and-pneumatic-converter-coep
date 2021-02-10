@@ -25,7 +25,7 @@
     },
     {
       "name": "Calibration and fault finding of I/P converter for flow control system",
-      "short-name": "ip-flow-control-",
+      "short-name": "ip-flow-control",
       "repo": "https://github.com/virtual-labs/exp-ip-flow-control-coep",
       "tag": "v1.0.0",
       "deploy": true
@@ -85,5 +85,5 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v0.0.1"
+  "version": "v0.0.2"
 }
