@@ -1,2 +1,2 @@
-# process-loop-component-for-current-and-pneumatic-converter-coep
-Process loop component for current and pneumatic converter Lab
+# process-loop-component-for-current-and-pneumatic-converters-coep
+Process loop component for current and pneumatic converters Lab
