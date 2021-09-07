@@ -85,7 +85,7 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v1.3.0",
+  "version": "v1.4.0",
   "exp_name": "Calibration and fault finding of P/E converter for temperature control system",
   "exp_short_name": "pe-temperature-control",
   "production": true,
