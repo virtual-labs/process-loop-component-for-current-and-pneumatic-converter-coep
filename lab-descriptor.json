@@ -13,56 +13,56 @@
       "name": "Calibration and fault finding of I/P converter for level control system",
       "short-name": "ip-level-control",
       "repo": "https://github.com/virtual-labs/exp-ip-level-control-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of I/P converter for pressure control system",
       "short-name": "ip-pressure-control",
       "repo": "https://github.com/virtual-labs/exp-ip-pressure-control-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of I/P converter for flow control system",
       "short-name": "ip-flow-control",
       "repo": "https://github.com/virtual-labs/exp-ip-flow-control-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of I/P converter for temperature control system",
       "short-name": "ip-temperature-control",
       "repo": "https://github.com/virtual-labs/exp-ip-temperature-control-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of P/E converter for level control system",
       "short-name": "pe-level-control",
       "repo": "https://github.com/virtual-labs/exp-pe-level-control-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of P/E converter for pressure control system",
       "short-name": "pe-pressure-control",
       "repo": "https://github.com/virtual-labs/exp-pe-pressure-control-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of P/E converter for flow control system",
       "short-name": "pe-flow-control",
       "repo": "https://github.com/virtual-labs/exp-pe-flow-control-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of P/E converter for temperature control system",
       "short-name": "pe-temperature-control",
       "repo": "https://github.com/virtual-labs/exp-pe-temperature-control-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     }
   ],
