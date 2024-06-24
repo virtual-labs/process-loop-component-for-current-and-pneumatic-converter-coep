@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Electrical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-electrical-engineering",
+    "code": "EE"
   },
   "lab": "Process Loop Components for the Current and Pneumatic Converters",
+  "lab_display_name": "Process Loop Components for the Current and Pneumatic Converters",  
   "phase": 3,
   "collegeName": "coep",
   "baseUrl": "plcip-coep.vlabs.ac.in",
