@@ -137,6 +137,7 @@
       "target": "references.html",
       "source": "references.md",
       "label": "References"
-    }
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ]
 }
